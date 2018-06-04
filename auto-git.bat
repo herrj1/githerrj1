@@ -15,7 +15,8 @@ cd %UserInputPath%
 ::git checkout develop
 ::# add all added/modified files
 git add .
-git ignore auto-git.bat
+::git ignore auto-git.bat
+git update-index --skip-worktree auto-git.bat
 ::# commit changes
 ::set /p CommitMessage=What would you like to say on your commit?
 ::read commitMessage
