@@ -1,0 +1,15 @@
+Global (If you use 2 or more than git servers, I don't recommend this way)
+
+git config --global user.name "Mr. Joe"
+git config --global user.email "joe@example.com"
+
+
+Repository level (If you use many git servers, It's recommended), at repo R1:
+
+git config user.name "Mr. Rilcon"
+git config user.email "rilcon@example.com"
+
+at repo R2:
+
+git config user.name "Mr. Happy"
+git config user.email "saturday@example.com"
