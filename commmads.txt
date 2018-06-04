@@ -3,13 +3,22 @@ Global (If you use 2 or more than git servers, I don't recommend this way)
 git config --global user.name "Mr. Joe"
 git config --global user.email "joe@example.com"
 
+To edit global settings:
+ notepad ~/.gitconfig
+within gitbash
+
 
 Repository level (If you use many git servers, It's recommended), at repo R1:
+git config --list
+git config user.name "John Doe"
+git config user.email "johndoe@example.com"
 
-git config user.name "Mr. Rilcon"
-git config user.email "rilcon@example.com"
+git config credential.user 'herrj1'
+git config credential.password '********'
 
 at repo R2:
 
-git config user.name "Mr. Happy"
-git config user.email "saturday@example.com"
+git config user.name "Jay Doe"
+git config user.email "jaydoe@example.com"
+git config credential.user 'herrj1'
+git config credential.password '********'
