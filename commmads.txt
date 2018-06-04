@@ -28,3 +28,5 @@ git config credential.password '********'
 
 
 git push origin master
+
+git update-index --skip-worktree FILENAME
