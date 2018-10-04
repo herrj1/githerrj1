@@ -25,7 +25,7 @@ git config user.email "jaydoe@example.com"
 git config credential.user 'herrj1'
 git config credential.password '********'
 
-
+#push at origin repo
 git push origin master
 
 git update-index --skip-worktree FILENAME
