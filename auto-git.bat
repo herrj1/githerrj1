@@ -1,5 +1,5 @@
 ::!/bin/sh
-:: Author: fullarray
+:: Author:fullarray
 :: Description: Auto commit tool every 180 seconds. 
 :: License: MIT License 
 :: Copyright 2010-2018 fullarray
