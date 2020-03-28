@@ -1,5 +1,7 @@
  git pull origin master --allow-unrelated-histories
 
+
+
 Global (If you use 2 or more than git servers, I don't recommend this way)
 
 git config --global user.name "Mr. John Doe"
