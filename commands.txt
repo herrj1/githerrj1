@@ -8,3 +8,5 @@ Another test to see what's happening.
 
 
 Added a new change to develop branch.
+
+Added change hotfix-1.0.0
