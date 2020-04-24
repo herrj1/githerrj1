@@ -1,5 +1,6 @@
 #####################
 ## created by herrj1
+## 2012-2020
 #####################
 
 This is a line added from develop branch which was derived from master branch
