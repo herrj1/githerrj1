@@ -29,8 +29,7 @@ git push origin master
 
 git update-index --skip-worktree FILENAME
 
-=========================================
-
+===========================================
 Added 4/13/2020 added line to bottom of file in master branch.
 
 Added a new line below 4/13/2020. It's at the bottom of the file.
