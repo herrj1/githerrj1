@@ -1,9 +1,11 @@
 ::!/bin/sh
-:: Author: fullarrays
+:: Author: fullarray
 :: Description: Auto commit tool every 180 seconds. 
 :: License: MIT License 
-:: Copyright 2010-2018 fullarray
-::############################
+:: Copyright 2015-2020 fullarray
+::#########################################
+::## Automation tool for git auto commits
+::#########################################
 @echo off
 set UserInputPath=%cd%
 echo Current directory: %UserInputPath%

@@ -1,12 +1,16 @@
-####
+#####################
+## created by herrj1
+## 2012-2020
+#####################
+
 This is a line added from develop branch which was derived from master branch
 
 This is making sure the creds work normally.
 
-
 Another test to see what's happening. 
-
 
 Added a new change to develop branch.
 
 Added change hotfix-1.0.0
+
+Added this line for release-0.0.4
