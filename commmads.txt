@@ -1,8 +1,8 @@
  git pull origin master --allow-unrelated-histories
 
-Global (If you use 2 or more than git servers, I don't recommend this way)
+Global (If you use 2 or more than git servers,I don't recommend this way)
 
-git config --global user.name "Mr. John Doe"
+git config --global user.name "John Doe"
 git config --global user.email "john@example.com"
 
 To edit global setting:
@@ -18,7 +18,6 @@ git config credential.user 'herrj1'
 git config credential.password '********'
 
 At repo R2:
-
 git config user.name "Jay Doe"
 git config user.email "jaydoe@example.com"
 git config credential.user 'herrj1'
