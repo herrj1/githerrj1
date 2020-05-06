@@ -15,5 +15,6 @@ Added change hotfix-1.0.0
 
 Added this line for release-0.0.4
 
+Added more enhancements to web app on remote server
 
 code to fix issue 3992535
