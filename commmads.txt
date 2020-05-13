@@ -35,3 +35,5 @@ Added a new line below 4/13/2020. It's at the bottom of the file.
 
 Added new line 4/16/2020
 
+Reworked title of index
+
