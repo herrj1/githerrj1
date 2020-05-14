@@ -1,6 +1,8 @@
 ########################
-## created by herrj1
-## 2012-2020
+#
+# created by herrj1
+# 2012-2020
+#
 ########################
 
 This is a line added from develop branch which was derived from master branch
@@ -24,3 +26,5 @@ code to fix issue 3992i535355
 Added tracker enhancements
 
 Added reference points
+
+Added authorship
