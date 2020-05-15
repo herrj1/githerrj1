@@ -28,3 +28,6 @@ Added tracker enhancements
 Added reference points
 
 Added authorship
+
+
+Added title enhancements
