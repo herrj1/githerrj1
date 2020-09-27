@@ -2,12 +2,15 @@
 
 Global (If you use 2 or more than git servers,I don't recommend this way)
 
+
 git config --global user.name "John Doe"
 git config --global user.email "john@example.com"
+
 
 To edit global setting:
  notepad ~/.gitconfig
 within gitbash
+
 
 Repository level (If you use many git servers, It's recommended), at repo R1:
 git config --list
